@@ -196,7 +196,7 @@ Scroll
 */
 /* navbar */
 nav {
-  background: var(--clr-white);
+  background: rgba(255, 255, 255, 0.4);
   padding: 1rem 1.5rem;
 }
 /* fixed nav */
@@ -246,8 +246,8 @@ nav {
   height: 200px;
 }
 .links a {
-  background: var(--clr-white);
-  color: var(--clr-grey-5);
+  background: transparent;
+  color: #000000;
   font-size: 1.1rem;
   text-transform: capitalize;
   letter-spacing: var(--spacing);
